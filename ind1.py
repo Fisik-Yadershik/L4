@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 x = int(input("How much? "))
 if x<50:
     a = 0.3*x
