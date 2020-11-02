@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 x = int(input("Chislo"))
 a = int(1)
 while a<=x:
